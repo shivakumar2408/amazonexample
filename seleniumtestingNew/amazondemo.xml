@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="amazondemo">
-<test name= "Testing amazon">
-<classes>
-<class name="seleniumtestingNew.amazonDemo"></class>
-</classes>
-</test>
-</suite>
